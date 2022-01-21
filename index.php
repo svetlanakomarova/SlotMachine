@@ -1,7 +1,7 @@
 <?php
 /*
- * name: Svetlana Komarova
- * student number: 991612772
+ * @author: Svetlana Komarova
+ *
  * assignment: Assignment 3
  * March 31, 2021
  * 
